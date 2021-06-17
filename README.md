@@ -1,4 +1,4 @@
-# T9Trie
+# TrieT9
 
 *Trie* structure exercise for *T9* input text. A fun way for killing time during a meeting.
 
